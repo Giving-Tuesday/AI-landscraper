@@ -1,3 +1,11 @@
+credentials.json
+._dump.json
+.gitignore
+__pycache__/
+dump.json
+results.json
+data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

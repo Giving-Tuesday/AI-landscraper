@@ -1,0 +1,3 @@
+dateparser
+playwright==1.27
+google-api-python-client==2.78
