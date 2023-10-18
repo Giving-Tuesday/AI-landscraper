@@ -1,7 +1,7 @@
 
 # AI-landscraper
 
-Searches Google (CSE API) for AI and nonprofit related content, and scrapes results using `playwright-python`
+Searches Google (CSE API) for AI and nonprofit related content, and scrapes results using `playwright-python`. Primary purpose is to create a text dataset for use by LLM's in projects that aim to understand the nonprofit sector. 
 
 ## Install
 
